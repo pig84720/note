@@ -31,4 +31,4 @@ background-position:right top;
 
 變亮:filter:brightness()→建議前面加上-webkit- 能讓所有瀏覽器使用
 顏色隨時間漸變:transition: all 秒數s
-讓正方形變圓形:border-radius →0.5會變圓
+讓正方形變圓形:border-radius →50%會變圓
