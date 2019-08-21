@@ -11,7 +11,7 @@ for(i = 0; i < address.length; i++){
          else if(address[i]==='.'){
          something = something  + "[.]"
      }
-    
+    //將所有'.'取代為'[.]'
 }
 
   return something  
