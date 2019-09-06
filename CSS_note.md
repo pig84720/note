@@ -12,9 +12,18 @@
 #### 移動位置(假如上一行空間夠會縮排)
 * float:right; 移向右。
 * float:left; 移向左。
+
+#### text-transform屬性  
+* none	默認  定義帶有小寫字母和大寫字母的標準的文本。  
+* capitalize  文本中的每個單詞以大寫字母開頭。  
+* uppercase  定義僅有大寫字母。  
+* lowercase  定義無大寫字母，僅有小寫字母。  
+* inherit  規定應該從父元素繼承text-transform 屬性的值。  
+
 #### 背景圖片格式
 * example {  
-    background-image: url('網址');}
+    background-image: url('網址');}  
+    
 #### 背景 原圖填滿格式
 * .hero {  
   background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
@@ -46,15 +55,15 @@ background-repeat:no-repeat;
 background-position:right top;  
 }
 
-#### 文字強迫換行，英文字會被切一半 word-break: break-all;
-#### 依單字換行 word-wrap:break-word;
-#### 死都不換行 white-space:nowrap;
+#### 文字強迫換行，英文字會被切一半 word-break: break-all;  
+#### 依單字換行 word-wrap:break-word;  
+#### 死都不換行 white-space:nowrap;  
+ 
+#### 當文字超過限制時會自動顯示”…”的刪節號:text-overflow: ellipsis;  
 
-#### 當文字超過限制時會自動顯示”…”的刪節號:text-overflow: ellipsis;
-
-#### 變亮:filter:brightness()→建議前面加上-webkit- 能讓所有瀏覽器使用
+#### 變亮:filter:brightness()→建議前面加上-webkit- 能讓所有瀏覽器使用  
 * 顏色隨時間漸變:transition: all 秒數s  
-讓正方形變圓形:border-radius: →0.5會變圓
+讓正方形變圓形:border-radius: →0.5會變圓  
 
 #### 標籤
 * (id優先順序大於class)  
