@@ -1,11 +1,11 @@
-#### "justify-content"  
+#### "justify-content" (水平對齊)
 * flex-start: Items align to the left side of the container.
 * flex-end: Items align to the right side of the container.
 * center: Items align at the center of the container.
 * space-between: Items display with equal spacing between them.
 * space-around: Items display with equal spacing around them.  
 
-#### "align-items"
+#### "align-items" (垂直對齊)
 * flex-start: Items align to the top of the container.
 * flex-end: Items align to the bottom of the container.
 * center: Items align at the vertical center of the container.
