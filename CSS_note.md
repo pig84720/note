@@ -40,7 +40,7 @@ background-position:right top;
 讓正方形變圓形:border-radius: →0.5會變圓
 
 #### 標籤
-*　 id優先順序大於class
+* (id優先順序大於class)
 同一個id只能使用一次
 exp:
 <a id="learn-code" href="https://www.codecademy.com">Click here to learn to code!</a> 
