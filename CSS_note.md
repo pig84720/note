@@ -1,6 +1,7 @@
 ### 經典顏色範例 [colorpeek](http://www.colorpeek.com)
 #### 背景圖片格式
 * example {
+
     background-image: url('網址');}
 #### 背景 原圖填滿格式
 * .hero {
