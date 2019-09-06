@@ -16,4 +16,6 @@
 * row: Items are placed the same as the text direction.
 * row-reverse: Items are placed opposite to the text direction.
 * column: Items are placed top to bottom.
-* column-reverse: Items are placed bottom to top.
+* column-reverse: Items are placed bottom to top.  
+
+#### [圖解：CSS Flex 屬性一點也不難]("https://wcc723.github.io/css/2017/07/21/css-flex/")
