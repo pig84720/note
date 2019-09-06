@@ -1,3 +1,8 @@
+背景 原圖填滿格式
+.hero {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+  background-size: cover;
+}
 背景 水平方向平舖(repeat-x)
 exp:
 body
@@ -31,8 +36,6 @@ background-position:right top;
 
 變亮:filter:brightness()→建議前面加上-webkit- 能讓所有瀏覽器使用
 顏色隨時間漸變:transition: all 秒數s
-<<<<<<< HEAD:CSS_note.md
 讓正方形變圓形:border-radius: →0.5會變圓
-=======
-讓正方形變圓形:border-radius →50%會變圓
->>>>>>> f1ee400404f8d4eb97d44a44e15874eaed8ce255:CSS_note.rd
+
+
