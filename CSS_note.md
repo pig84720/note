@@ -1,4 +1,4 @@
-背景 原圖填滿格式
+####背景 原圖填滿格式
 .hero {
   background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
   background-size: cover;
