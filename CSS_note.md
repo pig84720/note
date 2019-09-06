@@ -9,7 +9,7 @@
 * display:block; →分行顯示。
 * display:inline; →顯示在同一行。
 
-#### 移動位置
+#### 移動位置(假如上一行空間夠會縮排)
 * float:right; 移向右。
 * float:left; 移向左。
 #### 背景圖片格式
