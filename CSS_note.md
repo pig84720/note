@@ -39,4 +39,7 @@ background-position:right top;
 顏色隨時間漸變:transition: all 秒數s
 讓正方形變圓形:border-radius: →0.5會變圓
 
-
+id優先順序大於class
+同一個id只能使用一次
+exp:
+<a id="learn-code" href="https://www.codecademy.com">Click here to learn to code!</a> 
