@@ -18,4 +18,4 @@
 * column: Items are placed top to bottom.
 * column-reverse: Items are placed bottom to top.  
 
-#### [圖解：CSS Flex 屬性一點也不難]("https://wcc723.github.io/css/2017/07/21/css-flex/")
+#### [圖解：CSS Flex 屬性一點也不難](https://wcc723.github.io/css/2017/07/21/css-flex/)
