@@ -1,4 +1,7 @@
-### 顏色挑選 [colorpeek](http://www.colorpeek.com)
+### 經典顏色範例 [colorpeek](http://www.colorpeek.com)
+#### 背景圖片格式
+* example {
+    background-image: url('網址');}
 #### 背景 原圖填滿格式
 * .hero {
   background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
