@@ -3,6 +3,7 @@
   background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
   background-size: cover;
 }
+
 背景 水平方向平舖(repeat-x)
 exp:
 body
