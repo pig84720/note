@@ -5,7 +5,7 @@
 }
 
 #### 背景 水平方向平舖(repeat-x)
-exp:
+* exp:
 body
 {
 background-image:url('gradient2.png');
