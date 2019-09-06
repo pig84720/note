@@ -13,7 +13,7 @@ background-repeat:repeat-x;
 }
 
 #### 背景 不平鋪(no-repeat)
-exp:
+* exp:
 body
 {
 background-image:url('img_tree.png');
@@ -21,7 +21,7 @@ background-repeat:no-repeat;
 }
 
 #### 改變圖片在背景的位置(background-position)
-exp:
+* exp:
 body
 {
 background-image:url('img_tree.png');
@@ -36,10 +36,11 @@ background-position:right top;
 #### 當文字超過限制時會自動顯示”…”的刪節號:text-overflow: ellipsis;
 
 #### 變亮:filter:brightness()→建議前面加上-webkit- 能讓所有瀏覽器使用
-顏色隨時間漸變:transition: all 秒數s
+* 顏色隨時間漸變:transition: all 秒數s
 讓正方形變圓形:border-radius: →0.5會變圓
 
-id優先順序大於class
+#### 標籤
+*　id優先順序大於class
 同一個id只能使用一次
 exp:
 <a id="learn-code" href="https://www.codecademy.com">Click here to learn to code!</a> 
