@@ -69,4 +69,8 @@ background-position:right top;
 * (id優先順序大於class)  
 同一個id只能使用一次  
 exp:  
-<a id="learn-code" href="https://www.codecademy.com">Click here to learn to code!</a> 
+<a id="learn-code" href="https://www.codecademy.com">Click here to learn to code!</a>  
+#### 被點擊時發生
+* exp:  
+.contact-btn a:active{  
+}
