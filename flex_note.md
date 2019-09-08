@@ -13,9 +13,15 @@
 * stretch: Items are stretched to fit the container.  
 
 #### "flex-direction"
-* row: Items are placed the same as the text direction.
-* row-reverse: Items are placed opposite to the text direction.
-* column: Items are placed top to bottom.
-* column-reverse: Items are placed bottom to top.  
+* row: Items are placed the same as the text direction.(水平由左至右)  
+* row-reverse: Items are placed opposite to the text direction.(水平由右至左)  
+* column: Items are placed top to bottom.(垂直由上而下)  
+* column-reverse: Items are placed bottom to top.(垂直由下而上)  
+#### "flex-wrap"
+* 格式範例 flex-wrap: wrap;
+* wrap: 必要時換行。
+* wrap-reverse: 換行時順序顛倒。
+* nowrap: 不換行。
+
 
 #### [圖解：CSS Flex 屬性一點也不難](https://wcc723.github.io/css/2017/07/21/css-flex/)
