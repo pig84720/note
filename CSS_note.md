@@ -61,7 +61,7 @@ background-position:right top;
  
 #### 當文字超過限制時會自動顯示”…”的刪節號:text-overflow: ellipsis;  
 
-#### 變亮:filter:brightness(數字)→建議前面加上-webkit- 能讓所有瀏覽器使用  
+#### 變亮:filter:brightness(1~2)→建議前面加上-webkit- 能讓所有瀏覽器使用  
 * 顏色隨時間漸變:transition: all 秒數s  
 讓正方形變圓形:border-radius: →0.5會變圓  
 
@@ -73,4 +73,6 @@ exp:
 #### 被點擊時發生
 * exp:  
 .contact-btn a:active{  
-}
+}  
+
+#### text-decoration 去除連結的底線
