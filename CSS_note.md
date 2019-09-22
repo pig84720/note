@@ -1,6 +1,7 @@
 ### 經典顏色範例 [colorpeek](http://www.colorpeek.com)
 
-### 各式應用程式小圖像 [Ionicons](https://ionicons.com/v2/)
+### 各式應用程式小圖像 [Ionicons](https://ionicons.com)
+* <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
 
 ### href和src的差別
 * 請求資源類型不同  
