@@ -14,3 +14,11 @@ var reverseString = function(s) {
     };
     return s;
 };
+
+/*--速解法
+    var reverseString = function(s) {
+        //reverse() 順序反轉
+        s = s.reverse();
+        return s
+    };
+--*/
