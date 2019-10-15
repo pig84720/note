@@ -9,7 +9,7 @@ var myAtoi = function(str) {
         //numTF、numTF2檢核時用
         numTF = "false",
         numTF2 = "false";
-        //刪除空白格直到碰見第一個非空白格
+        //刪除空白格直到遇見非空白格
     for(i = 0 ; i < str.length ; i++) {
         if(str[i] == " ") {
             str = str.substring(0, i) + str.substring(i+1);
@@ -21,11 +21,11 @@ var myAtoi = function(str) {
     };
     for(j = 0 ; j < box.length ; j++){
         if(box[j] == str[0]) {
-            //預防練續遇到正負號又進去跑一輪
+            //預防正負號相連又進去跑一輪
             if(num != "") {
                 break;
             }
-            //若碰見的第一個符號為正負號或數字，紀錄numTF = "true",儲存它並刪除它
+            //若碰見的第一個符號為正負號或數字，紀錄numTF = "true",儲存符號並刪除它
             numTF = "true";
             num.push(str[0]);
             str = str.substring(0, 0) + str.substring(0+1);
