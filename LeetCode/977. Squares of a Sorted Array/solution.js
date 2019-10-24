@@ -3,7 +3,7 @@
  * @return {number[]}
  */
 var sortedSquares = function(A) {
-    //各項以各項平方取代
+    //各項以自身平方取代
     for(i = 0; i < A.length; i++) {
         A[i] = Math.pow(A[i],2);
     }
