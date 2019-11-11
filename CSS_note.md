@@ -1,5 +1,4 @@
 ### 視覺配色相關資源
-* [colorpeek(經典顏色範例)](http://www.colorpeek.com)
 * [Adobe Color(各式顏色組合)](https://color.adobe.com/zh/explore)
 * [awwwards(現代感網頁範例)](https://www.awwwards.com/websites/)
 * [dribbble(使用者頁面範例)](https://dribbble.com/)
