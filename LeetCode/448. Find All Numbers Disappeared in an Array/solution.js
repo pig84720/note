@@ -23,5 +23,5 @@ var findDisappearedNumbers = function(nums) {
            } 
         }  
     }
-    return ;
+    return box;
 };
