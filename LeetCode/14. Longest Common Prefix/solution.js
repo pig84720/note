@@ -6,7 +6,7 @@ var longestCommonPrefix = function(strs) {
     var count = 0,
         ans = [];
     //strs為空陣列時
-    if(strs.length == 0) {
+    if(!strs.length) {
         return "";
     }
     //外層為陣列中各項目的第i個字母
