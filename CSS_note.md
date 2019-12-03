@@ -3,7 +3,8 @@
 * [awwwards(現代感網頁範例)](https://www.awwwards.com/websites/)
 * [dribbble(使用者頁面範例)](https://dribbble.com/)
 * [coolors(隨機顏色生成)](https://coolors.co/3a3335-d81e5b-f0544f-fdf0d5-c6d8d3)
-* [BrandColors(百大品牌顏色操作)](https://brandcolors.net/) 
+* [BrandColors(百大品牌顏色操作)](https://brandcolors.net/)
+* [Flaticon(各式icon)](https://www.flaticon.com/) 
 
 ### 各式應用程式小圖像 [Ionicons](https://ionicons.com)
 * css link <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
