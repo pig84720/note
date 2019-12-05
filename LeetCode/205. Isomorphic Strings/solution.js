@@ -5,7 +5,7 @@
  */
 //解題思路:
 //找出s,t字串的組成類型 ex:01221
-//先紀錄單字裡所有字母種類 再紀錄indexOf得到組成類型
+//先紀錄單字裡所有字母種類 再以indexOf得到組成類型
 //比較兩者組成類型是否相同
 var isIsomorphic = function(s, t) {
     var box1 = [],
