@@ -4,8 +4,8 @@
  */
 var plusOne = function(digits) {
     var digits = digits.join("");
-    var int = digits[digits.length - 1];
-    var int = parseInt(int);
+    var int = parseInt(digits[digits.length - 1]);
+    int++;
     //對個位數+1
     int = int + 1;
     //個位數非9時
