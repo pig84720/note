@@ -10,8 +10,8 @@ var plusOne = function(digits) {
     int = int + 1;
     //個位數非9時
     if(int != 10){
-        var int = int.toString();
-        var digits = digits.split("");
+        int = int.toString();
+        digits = digits.split("");
         digits[digits.length - 1] = int;
     } else {
         digits = digits.split("");
