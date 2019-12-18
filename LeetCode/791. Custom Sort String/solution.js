@@ -23,7 +23,7 @@ var customSortString = function(S, T) {
             box.push(ans[i]);
         }
     }
-    //T陣列中只要不是box陣列中含有的字母就記錄在後面
+    //T陣列中只要不是box陣列中含有的字母就塞進ans
     for(i = 0; i < T.length; i++) {
         for(j = 0; j < box.length; j++) {
             if(box[j] !== T[i]) {
