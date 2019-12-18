@@ -39,7 +39,6 @@ var findAndReplacePattern = function(words, pattern) {
     for(k = 0; k < words.length; k++) {
         letter = [];
         box = [];
-        num = 1;
         for(i = 0; i < words[k].length; i++) {
             if(i == 0) {
                 letter.push(words[k][i]);
