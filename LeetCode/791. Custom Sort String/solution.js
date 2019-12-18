@@ -7,7 +7,7 @@ var customSortString = function(S, T) {
     var count = 0,
         ans = [],
         box = [];
-    //在空陣列中照S陣列字母順序塞入T陣列中含有S陣列內字母重複的字母
+    //在空陣列中照S陣列字母順序塞入T陣列中與S陣列內相符的字母
     for(i = 0; i < S.length; i++) {
         for(j = 0; j < T.length; j++) {
             if(S[i] == T[j]) {
