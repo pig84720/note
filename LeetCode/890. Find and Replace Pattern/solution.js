@@ -37,7 +37,6 @@ var findAndReplacePattern = function(words, pattern) {
         }
     box_pattern = box_pattern.join("");
     for(k = 0; k < words.length; k++) {
-        var word = words[k].split("");
         letter = [];
         box = [];
         num = 1;
