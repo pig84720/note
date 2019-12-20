@@ -5,6 +5,7 @@
 * [coolors(隨機顏色生成)](https://coolors.co/3a3335-d81e5b-f0544f-fdf0d5-c6d8d3)
 * [BrandColors(百大品牌顏色操作)](https://brandcolors.net/)
 * [Flaticon(各式icon)](https://www.flaticon.com/) 
+* [超猛調色盤](https://codepen.io/jh3y/pen/dybjLpa)
 
 ### 各式應用程式小圖像 [Ionicons](https://ionicons.com)
 * css link <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
