@@ -1,4 +1,4 @@
-SS.ssapi.url = "http://sswbyhfc08/ssapi45";
+SS.ssapi.url = "http://sswbyhfc08/ssapi45/";
 SS.service.baseUrl = "http://sswbyhfc08/LSService/";
 
 SS.portal.serverInfo = [
