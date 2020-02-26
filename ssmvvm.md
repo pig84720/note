@@ -32,4 +32,4 @@ SS.LS.serverInfo = [
 
 -   exeSPRetB 查詢
 -   exeSP 單筆存入
--   exeBatchSP 多筆存入
+-   exeBatchSP 多筆存入(exp:LSC680 > LSC680DataContext > SP_LSC680_I01)
