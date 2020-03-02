@@ -33,3 +33,9 @@ SS.LS.serverInfo = [
 -   exeSPRetB 查詢
 -   exeSP 單筆存入
 -   exeBatchSP 多筆存入(exp:LSC680 > LSC680DataContext > SP_LSC680_I01)
+
+#### datacontext-Deferred
+
+-   resolve() 回傳資料到 vm(done)
+-   reject() 回傳資料到 vm(fail))
+-   promise() 完成
