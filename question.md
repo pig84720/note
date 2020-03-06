@@ -1,9 +1,11 @@
-### 你可以描述漸進增強 (progressive enhancement) 和優美退化 (graceful degradation) 間的差異嗎？
+#### 你可以描述漸進增強 (progressive enhancement) 和優美退化 (graceful degradation) 間的差異嗎？
 
 -   使用優雅降級技術時,你必須首先完整的實現了網站,其中包括所有的功能和效果。然後再為那些無法支援所有功能的瀏覽器增加候選方案,使之在舊式瀏覽器上以某種形式降級體驗卻不至於完全失效。
 -   漸進增強:從被所有瀏覽器支援的基本功能開始,逐步地新增那些只有新式瀏覽器才支援的功能。
 
-### 你怎麼優化一個網站的靜態檔案 (assets) 和資源 (resources)？
+---
+
+#### 你怎麼優化一個網站的靜態檔案 (assets) 和資源 (resources)？
 
 -   靜態檔案、資源的種類
     -   1.html
@@ -28,3 +30,5 @@
     -   img
         -   壓縮 .png、.jpg
         -   使用 Inline Image 技巧
+
+---
