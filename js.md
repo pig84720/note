@@ -9,5 +9,5 @@
 ### ES6 語法
 
 -   物件縮寫 - 屬性縮寫 : 當物件內的 Key 跟 Value 同名時，可以不用重複撰寫  
-    `function ( x, y ){ return { x:x, y:y } }` =>
+    `function ( x, y ){ return { x:x, y:y } }` =>  
     `function ( x, y ){ return { x, y } }`
