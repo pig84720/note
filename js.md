@@ -14,7 +14,7 @@
     ```
     function ( x, y ){ return { x:x, y:y } }
     ```
-                                                      ↓↓↓
+    :↓↓↓:
     ```
     function ( x, y ){ return { x, y } }
     ```
