@@ -142,7 +142,7 @@ function distance({ x,y }) {
 
 ### 字串模板 String template(宣告方式:反引號``)
 
--   插入表達式(\$({表達式)})
+-   插入表達式(\${(表達式)})
 
 ```
 function great(name,days) {
@@ -165,3 +165,33 @@ const words = `aaaaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbbbb
 ccccccccccccccccccccccccc`;
 ```
+
+### 箭頭函式
+
+####語法簡短
+
+-   參數只有一個時可省略小括號
+
+```
+const double = x => {
+  return x * 2
+}
+```
+
+-   內容只有一行並回傳時可接為一行
+
+```
+const double = x => x * 2
+```
+
+####自動綁定
+
+-   箭頭函式內部的 this 與外部相同
+
+-   this 補充
+
+*   直接執行 : windows(global)
+
+-   作為物件的成員函式執行 : 該物件
+
+*   作為 dom 的偵聽函式執行 : 該 dom
