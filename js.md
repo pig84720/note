@@ -168,7 +168,7 @@ ccccccccccccccccccccccccc`;
 
 ### 箭頭函式
 
-####語法簡短
+#### 語法簡短
 
 -   參數只有一個時可省略小括號
 
@@ -184,7 +184,7 @@ const double = x => {
 const double = x => x * 2
 ```
 
-####自動綁定
+#### 自動綁定
 
 -   箭頭函式內部的 this 與外部相同
 -   this 補充
