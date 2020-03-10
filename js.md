@@ -14,9 +14,9 @@
     `function ( x, y ){ return { x:x, y:y } }` =>
     `function ( x, y ){ return { x, y } }`
 
-*   計算屬性 : 當宣告 object 時，想要動態指定物件內的 Key，更方便的寫法
-    `function() {`
-    `onst obj = {};`
-    `obj[key] = value;`
-    `return obj;`
+*   計算屬性 : 當宣告 object 時，想要動態指定物件內的 Key，更方便的寫法  
+    `function() {`  
+    `onst obj = {};`  
+    `obj[key] = value;`  
+    `return obj;`  
     `}`
