@@ -20,10 +20,45 @@
     ```
 
 *   計算屬性 : 當宣告 object 時，想要動態指定物件內的 Key，更方便的寫法
+
     ```
-    function() {
+    function creatObj(key,value) {
       const obj = {};
       obj[key] = value;
       return obj;
+    }
+    ```
+
+    ↓↓↓
+
+    ```
+    function creatObj(key,value) {
+      const obj = {
+        [key] : value
+      }
+    }
+    ```
+
+*   函式縮寫 : 在 Object 內宣告函數時可以做縮寫
+
+    ```
+    const options = {
+      name : 'Options',
+      level : 10,
+      created function() {
+
+      }
+    }
+    ```
+
+    ↓↓↓
+
+    ```
+    const options = {
+      name : 'Options',
+      level : 10,
+      created() {
+
+      }
     }
     ```
