@@ -190,8 +190,8 @@ const double = x => x * 2
 
 -   this 補充
 
-*   直接執行 : windows(global)
+> -   直接執行 : windows(global)
 
--   作為物件的成員函式執行 : 該物件
+> -   作為物件的成員函式執行 : 該物件
 
-*   作為 dom 的偵聽函式執行 : 該 dom
+> -   作為 dom 的偵聽函式執行 : 該 dom
