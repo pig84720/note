@@ -8,7 +8,7 @@
 
 ### ES6 語法
 
-#### 物件縮寫(Object shorthand)
+#### 物件縮寫 Object shorthand
 
 -   屬性縮寫 : 當物件內的 Key 跟 Value 同名時，可以不用重複撰寫
     ```
@@ -46,7 +46,6 @@
       name : 'Options',
       level : 10,
       created function() {
-
       }
     }
     ```
@@ -58,7 +57,109 @@
       name : 'Options',
       level : 10,
       created() {
-
       }
     }
     ```
+
+#### 解構賦值 Destructuring assignment
+
+-   陣列解構
+
+*   預設值
+
+```
+const nums = [ 1,2,3 ];
+const [ first,second,third,fourth = 0 ] = nums;
+//可給預設值
+```
+
+-   忽略元素
+
+```
+const nums = [ 1,2,3 ];
+const [ ,,third ] = nums;
+//逗號不可省略
+```
+
+-   變數交換
+
+```
+let a = 1;
+let b = 2;
+[ a,b ] = [ b,a ]
+```
+
+-   剩餘部分
+
+```
+const nums = [ 1,2,3,4 ];
+const [ first,others... ] = nums;
+first == 1;
+others == [ 2,3,4 ];
+```
+
+-   物件解構
+
+*   預設值
+
+```
+const point = {
+  x : 150,
+  y : 100,
+};
+const {x, y , z = 0} = point;
+```
+
+-   指派新名稱
+
+```
+const point = {
+  x : 150,
+  y : 100,
+};
+const { x:px,y:py} = point;
+px == 150;
+py == 100;
+```
+
+-   解構函式參數
+
+```
+function distance(point) {
+  return Math.sqrt(point.x * point.x + point.y * point.y);
+}
+```
+
+↓↓↓
+
+```
+function distance({ x,y }) {
+  return Math.sqrt(x * x + y * y);
+}
+```
+
+#### 字串模板 String template(宣告方式:反引號``)
+
+-   插入表達式(\$({表達式)})
+
+```
+function great(name,days) {
+  console.log(`Hello, ${name}! ${(days<7)?'':'Long time no see'}`)
+}
+```
+
+-   多行字串
+
+```
+const words = 'aaaaaaaaaaaaaaaaaaaaaaaaa\n'+
+'bbbbbbbbbbbbbbbbbbbbbbbbb\n' +
+'ccccccccccccccccccccccccc\n';
+```
+
+↓↓↓
+
+```
+const words = `aaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbbbbb
+ccccccccccccccccccccccccc`;
+```
