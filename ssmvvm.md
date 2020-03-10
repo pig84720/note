@@ -37,5 +37,5 @@ SS.LS.serverInfo = [
 #### datacontext-Deferred
 
 -   resolve() 回傳資料到 vm(done)
--   reject() 回傳資料到 vm(fail))
+-   reject() 回傳資料到 vm(fail)
 -   promise() 完成
