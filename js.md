@@ -6,9 +6,11 @@
 
 #### [Ajax 詳細解釋](https://blog.techbridge.cc/2019/10/05/javascript-async-sync-and-callback/)
 
-### ES6 語法
+---
 
-#### 物件縮寫 Object shorthand
+## ES6 語法
+
+### 物件縮寫 Object shorthand
 
 -   屬性縮寫 : 當物件內的 Key 跟 Value 同名時，可以不用重複撰寫
     ```
@@ -61,11 +63,11 @@
     }
     ```
 
-#### 解構賦值 Destructuring assignment
+### 解構賦值 Destructuring assignment
 
--   陣列解構
+#### 陣列解構
 
-*   預設值
+-   預設值
 
 ```
 const nums = [ 1,2,3 ];
@@ -98,9 +100,9 @@ first == 1;
 others == [ 2,3,4 ];
 ```
 
--   物件解構
+#### 物件解構
 
-*   預設值
+-   預設值
 
 ```
 const point = {
@@ -122,7 +124,7 @@ px == 150;
 py == 100;
 ```
 
--   解構函式參數
+#### 解構函式參數
 
 ```
 function distance(point) {
@@ -138,7 +140,7 @@ function distance({ x,y }) {
 }
 ```
 
-#### 字串模板 String template(宣告方式:反引號``)
+### 字串模板 String template(宣告方式:反引號``)
 
 -   插入表達式(\$({表達式)})
 
