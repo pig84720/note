@@ -6,6 +6,8 @@
 
 #### [Ajax 詳細解釋](https://blog.techbridge.cc/2019/10/05/javascript-async-sync-and-callback/)
 
+#### [一張圖了解 map reduce](https://www.datasciencecentral.com/forum/topics/what-is-map-reduce)
+
 ---
 
 ## ES6 語法
@@ -191,3 +193,5 @@ const double = x => x * 2
     -   直接執行 : windows(global)
     -   作為物件的成員函式執行 : 該物件
     -   作為 dom 的偵聽函式執行 : 該 dom
+
+---
