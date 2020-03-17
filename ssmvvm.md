@@ -39,3 +39,9 @@ SS.LS.serverInfo = [
 -   resolve() 回傳資料到 vm(done)
 -   reject() 回傳資料到 vm(fail)
 -   promise() 完成
+
+### setServerInfo
+
+-   require session 時已經先 setServerInfo 一次(Session.js)
+-   initial 一律在 getsession 的 done 裡面做,不然 ServerInfo 會被設為空陣列
+-   initial 前先跑 DC 裡的 setServerInfo(getSessionData 後)

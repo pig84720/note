@@ -13,3 +13,11 @@
 -   sample:=System.Convert.FromBase64String(base64 字串放這)
 -   MIME 類型需先得知
 -   大功告成
+
+### ssrs 公司佈署環境
+
+-   report server(http://sssqyhfc01_r2/Reports/Pages/Folder.aspx)
+-   在對應專案 Report 資料夾上傳報表
+-   上傳完成後,於該檔案項目中選擇管理
+-   左側選擇資料來源
+-   指定該報表資料來源
