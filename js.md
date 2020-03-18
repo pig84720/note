@@ -10,6 +10,17 @@
 
 ---
 
+### 正則表達式
+
+-   一般字元：
+    Grammar | Description  
+    ---------|------------------
+    /apple/ | 含有 apple 的字串
+    /./ | 含有任意字元的字串
+    /apple./ | 含有 apple 後面接任意字元的字串??
+
+---
+
 ## ES6 語法
 
 ### 物件縮寫 Object shorthand
