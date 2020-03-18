@@ -26,8 +26,8 @@
     /apple/g | 全域匹配，只要符合就會回傳
     m | 多行匹配
     y | 進行黏性匹配(sticky matching)，  
-     只會對最後一次符合處之後進行匹配 ，需要配合設定  
-     lastIndex
+     | 只會對最後一次符合處之後進行匹配 ，需要配合設定  
+     | lastIndex
     u | 對 unicode 數值作跳脫
 
 ---
