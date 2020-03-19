@@ -49,7 +49,7 @@ SS.LS.serverInfo = [
 #### PP 上註冊專案流程
 
 -   IE 上連到 PP http://sswbyhfc06/PP/
--   帳號 99998 密碼 Aa99998
+-   帳號 很多 9+8 密碼 Aa 很多 9+8
 -   登入系統 → 權限管理
 -   於 PPA050、PPA060 註冊  
     ![註冊](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/90435436_3096217243735647_8716227735971692544_o.jpg?_nc_cat=108&_nc_sid=8024bb&_nc_ohc=ckvyiNYX3LwAX-RpMHY&_nc_ht=scontent.ftpe7-3.fna&oh=53245e095abde977328c152530f1514e&oe=5E995995)
