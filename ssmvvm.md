@@ -46,7 +46,7 @@ SS.LS.serverInfo = [
 -   initial 一律在 getsession 的 done 裡面做,不然 ServerInfo 會被設為空陣列
 -   initial 前先跑 DC 裡的 setServerInfo(getSessionData 後)
 
-#### PP 上註冊專案流程
+#### PP 上註冊頁面流程
 
 -   IE 上連到 PP http://sswbyhfc06/PP/
 -   帳號 很多 9+8 密碼 Aa 很多 9+8
