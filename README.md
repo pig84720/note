@@ -23,3 +23,4 @@
 #### 線上課程口袋名單
 
 -   [精通 VueJS 前端開發完全指南](https://hiskio.com/courses/145)
+-   [VoiceTube HERO - 線上英語學習課程](https://tw.voicetube.com/hero/)
