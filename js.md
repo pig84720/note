@@ -4,6 +4,10 @@
 
 #### [一張圖了解 map reduce](https://www.datasciencecentral.com/forum/topics/what-is-map-reduce)
 
+#### [我知道你懂 hoisting，可是你了解到多深？](https://github.com/aszx87410/blog/issues/34?fbclid=IwAR2vIYN6E-kh38kzzjGwpfcX82BYC63y4iqOZep4c621G5VrxW-iAco_uMY)
+
+#### [深度解析 closure(非常牛逼)](https://blog.huli.tw/2018/12/08/javascript-closure/)
+
 ---
 
 ### 正則表達式
