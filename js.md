@@ -195,7 +195,7 @@ function distance({ x,y }) {
 }
 ```
 
-### 字串模板 String template(宣告方式:反引號``)
+### 字串模板 String template(宣告方式:反引號 ``)
 
 -   插入表達式(\${(表達式)})
 
