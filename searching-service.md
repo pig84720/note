@@ -29,12 +29,12 @@ SS.LC.serverInfo = [
 
 ```
 SS.LS.serverInfo = [
-// 'APYHFC15',
-'SSSQYHFC01_R2',
-'LS',
-'',
-'',
-'S'
+    // 'APYHFC15',
+    'SSSQYHFC01_R2',
+    'LS',
+    '',
+    '',
+    'S'
 ];
 ```
 
