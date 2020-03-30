@@ -20,6 +20,8 @@
 
 #### [超人氣代碼格式化工具 prettier](https://www.twblogs.net/a/5cc68fcebd9eee1ac30b5ccb)
 
+#### [用 React 和 JSON Resume 建構新潮的軟體開發人員履歷網站](https://softnshare.com/%e7%94%a8-react-%e5%92%8c-json-resume-%e5%bb%ba%e6%a7%8b%e7%9a%84%e6%96%b0%e6%bd%ae%e7%9a%84%e8%bb%9f%e9%ab%94%e9%96%8b%e7%99%bc%e4%ba%ba%e5%93%a1%e5%b1%a5%e6%ad%b7%e7%b6%b2%e7%ab%99/?fbclid=IwAR3wf1oUVo4xPvq75m3VBrG_ogLVAY_lNglowPbiYkDhEfs393WhqLUsIrE)
+
 #### 線上課程口袋名單
 
 -   [精通 VueJS 前端開發完全指南](https://hiskio.com/courses/145)
