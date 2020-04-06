@@ -10,6 +10,11 @@
 
 #### [取系統預設日+-N 天](https://blog.csdn.net/qq_34915414/article/details/80746590)
 
+#### 原型鍊
+
+-   [Javascript 繼承機制的設計思想](http://www.ruanyifeng.com/blog/2011/06/designing_ideas_of_inheritance_mechanism_in_javascript.html)
+-   [從設計初衷解釋 JavaScript 原型鍊](https://www.jianshu.com/p/a97863b59ef7)
+
 ---
 
 ### 正則表達式
