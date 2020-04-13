@@ -28,7 +28,7 @@
         ```
         <Report xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:cl="http://schemas.microsoft.com/sqlserver/reporting/2010/01/componentdefinition" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/reportdefinition">
         ```
-        再移除 <ReportParametersLayout> 區段之後就可以成功降級為 2008R2 可使用的 RDL 檔案
+        再移除 `<ReportParametersLayout>` 區段之後就可以成功降級為 2008R2 可使用的 RDL 檔案
 -   report server(http://sssqyhfc01_r2/Reports/Pages/Folder.aspx)
 -   在對應專案 Report 資料夾上傳報表
 -   上傳完成後,於該檔案項目中選擇管理
