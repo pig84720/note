@@ -26,3 +26,7 @@
 
 -   [精通 VueJS 前端開發完全指南](https://hiskio.com/courses/145)
 -   [VoiceTube HERO - 線上英語學習課程](https://tw.voicetube.com/hero/)
+
+#### 書籍口袋名單
+
+-   [Vue.js 建置與執行](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6277494&cid=recitri&oid=BfG&recomd_id=promote04_normal_1590053440_778460330)
