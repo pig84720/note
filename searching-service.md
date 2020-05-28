@@ -62,7 +62,7 @@ SS.LS.serverInfo = [
 -   帳號 很多 9+8 密碼 Aa 很多 9+8
 -   登入系統 → 權限管理
 -   於 PPA050、PPA060 註冊  
-    ![註冊](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/90435436_3096217243735647_8716227735971692544_o.jpg?_nc_cat=108&_nc_sid=8024bb&_nc_ohc=FAJfgIJBMNsAX9G8gAw&_nc_ht=scontent.ftpe7-3.fna&oh=ccb979e0736a64d613d4d3e621c7e88e&oe=5EC8CF95)
+    ![註冊](https://i.ibb.co/g3SgqxD/90435436-3096217243735647-8716227735971692544-o.jpg)
 
     050 的功能群組代號，若沒有相符選項，預設選第一個欄位。<br/>
     060 的群組代號，長租預設選擇 LLB0 長租企劃群組。
