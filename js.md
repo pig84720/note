@@ -8,6 +8,8 @@
 
 #### [深度解析 closure(非常牛逼)](https://blog.huli.tw/2018/12/08/javascript-closure/)
 
+#### [JavaScript 語言核心（15）函式 prototype 特性](https://openhome.cc/Gossip/CodeData/EssentialJavaScript/Prototype.html)
+
 #### [取系統預設日+-N 天](https://blog.csdn.net/qq_34915414/article/details/80746590)
 
 #### 原型鍊
