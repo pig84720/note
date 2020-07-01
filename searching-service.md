@@ -66,3 +66,8 @@ SS.LS.serverInfo = [
 
     050 的功能群組代號，若沒有相符選項，預設選第一個欄位。<br/>
     060 的群組代號，長租預設選擇 LLB0 長租企劃群組。
+
+#### 和雲AP路徑
+
+-   \\apyhfc03\inetpub\wwwroot\LC.NET
+-   ID:NTDOMAIN\XT00IT、PW: HFCa...........9
