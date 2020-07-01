@@ -69,5 +69,5 @@ SS.LS.serverInfo = [
 
 #### 和雲AP路徑
 
--   \\apyhfc03\inetpub\wwwroot\LC.NET
+-   \\\apyhfc03\inetpub\wwwroot\LC.NET
 -   ID:NTDOMAIN\XT00IT、PW: HFCa...........9
