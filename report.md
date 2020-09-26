@@ -1,7 +1,7 @@
 ### 創建流程
 
 -   新增專案 →Reporting Services(報表伺服器專案)
--   加入新的共同資料來源(Microsoft SQL sever)→ 連接字串 `Data Source=SSSQYHFC01_R2;Initial Catalog=LS`,建立後輸入伺服器名稱、帳密、連接至資料庫(選取資料庫)
+-   加入新的共同資料來源(Microsoft SQL sever)→ 連接字串 `Data Source=APYHFC15;Initial Catalog=LL`,建立後輸入伺服器名稱、帳密、連接至資料庫(選取資料庫)
 -   創建報表
 -   找出左方工具列的報表資料 → 加入資料來源(使用共同資料來源參考)→ 加入資料集
 
